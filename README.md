@@ -5,6 +5,8 @@ Just run:
 
 ```bash
 $ npm install --save rxjs webpack webpack-cli webpack-dev-server typescript ts-loader
+$ eslint --init
+$ npm start
 ```
 
 Based on:
