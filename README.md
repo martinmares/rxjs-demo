@@ -1,4 +1,4 @@
 # rxjs-demo
 
-Basic dev environment for RxJS 5.4.12
+Basic dev environment for RxJS 5.5.12
 
